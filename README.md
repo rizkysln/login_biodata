@@ -1,16 +1,23 @@
 # login
+Silahkan Login menggunakan
+Username : admin
+Password : admin
 
-A new Flutter project.
+Atau ganti sendiri di folder lib/screen/login_screen.dart
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Gambar WhatsApp 2024-07-18 pukul 16 09 12_c5e4f8e7](https://github.com/user-attachments/assets/3f2615b6-e38c-49b5-98cb-423ee936614a)
+![Gambar WhatsApp 2024-07-18 pukul 16 09 12_2fdd12c6](https://github.com/user-attachments/assets/37f6102a-e5fb-478e-851a-154286c3dc4e)
+![Gambar WhatsApp 2024-07-18 pukul 16 09 13_7f78a710](https://github.com/user-attachments/assets/ad3a374d-9645-4311-8cce-933c594a33d6)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi login untuk menampilkan biodata kelompok adalah sebuah sistem yang memungkinkan pengguna untuk masuk dengan menggunakan kredensial tertentu dan kemudian mengakses informasi biodata dari anggota kelompok yang terkait.
+
+. Fitur Utama
+a. Halaman Login
+Input Username dan Password: Pengguna memasukkan nama pengguna dan kata sandi mereka.
+Tombol Login: Mengirimkan data untuk validasi.
+b. Biodata Kelompok
+Daftar Anggota: Menampilkan daftar anggota kelompok.
+Detail Anggota: Saat pengguna memilih seorang anggota, detail lengkap seperti nama, alamat, kontak, dan lain-lain akan ditampilkan.
